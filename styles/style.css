@@ -58,6 +58,7 @@ ol {
   align-items: center;
   gap: 30px;
   width: 1140px;
+  margin: auto;
 }
 
 .result {
